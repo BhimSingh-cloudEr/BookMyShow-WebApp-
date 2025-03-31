@@ -20,40 +20,40 @@ Welcome to the **Book My Show App Deployment** project! This project demonstrate
 
 ## 🚦 **Project Stages**
 
-### CICD Pipeline 
+# CICD Pipeline 
 
 ![Image](https://github.com/user-attachments/assets/465b401c-7b68-4f5d-a08f-ef5c202e4349) 
 
-### **Phase 1: Deployment to Docker Container**
+# **Phase 1: Deployment to Docker Container**
 - Containerize the application using Docker.
 - Build and push Docker images to a container registry.
 - Run the application in a Docker container.
 
 ![Image](https://github.com/user-attachments/assets/86464832-0696-45fe-baac-f4ac199a9cd7)
 
-### **Phase 2: Deployment to EKS Cluster with Monitoring**
+# **Phase 2: Deployment to EKS Cluster with Monitoring**
 - Deploy the application to an **Amazon EKS (Elastic Kubernetes Service)** cluster.
 - Set up **Prometheus** and **Grafana** for monitoring and visualization.
 - Implement **Trivy** for vulnerability scanning and **OWASP** for security best practices.
 
-### Some Other Components Visualization of this project
+# Some Other Components Visualization of this project
 
 ![Image](https://github.com/user-attachments/assets/cf55a165-2391-41b3-98de-f0bc13d42fe5)
 ![Image](https://github.com/user-attachments/assets/b0c71048-71a0-4d19-90cb-0e208f787b70)
 ![Image](https://github.com/user-attachments/assets/673b0e2d-e72f-4822-85d0-2a9f6fde1211)
 
-### User Assign Policies and Roles
+# User Assign Policies and Roles
 
 ![Image](https://github.com/user-attachments/assets/6c0b42e8-f52f-4639-9779-cd929dffda83)
 
-### Code Quality 
+# Code Quality 
 
 ![Image](https://github.com/user-attachments/assets/920b74ec-2a26-468c-bf71-b83dbffdd5f1)
 
-### Attempts to get successfully deploy
+# Attempts to get successfully deploy
 
 ![Image](https://github.com/user-attachments/assets/3102d1df-1dab-4666-a211-853921a09b76)
 ![Image](https://github.com/user-attachments/assets/b5bb599e-dd00-474d-b948-f5631dabadaa)
 
-## 🎉 **Happy Learning!**  
+# 🎉 **Happy Learning!**  
 
